@@ -1,4 +1,4 @@
-from tensorflow.examples.tutorials.mnist import input_data
+from input_data import input_data
 
 mnist = input_data.read_data_sets("/workspace/", one_hot=True)
 

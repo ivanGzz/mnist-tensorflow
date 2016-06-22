@@ -3,3 +3,4 @@ experiments:
     type: standalone
     environment:
       build: .
+    dataset: dataset.json
